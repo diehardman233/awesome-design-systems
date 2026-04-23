@@ -1,3 +1,4 @@
+卧槽！
 ![cover](/cover.png)
 
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-blue.svg)
